@@ -17,7 +17,7 @@ public class T5p2e3 {
         listaEmpresas[1] = new Empresa("Mercedes",getListaClientes1());
         listaEmpresas[1].setListaEmpleados(getListaEmpleados1());
         
-        buscarDirectivoConMasSubordinados(listaEmpresas);
+        //buscarDirectivoConMasSubordinados(listaEmpresas);
     }
     
     public static ArrayList<Cliente> getListaClientes0(){
